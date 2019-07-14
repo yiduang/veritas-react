@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70ff33c9.chunk.css",
+    "main.js": "/static/js/main.8cabb55e.chunk.js",
+    "main.js.map": "/static/js/main.8cabb55e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.cbb72533.chunk.css": "/static/css/2.cbb72533.chunk.css",
+    "static/js/2.7d1bfff3.chunk.js": "/static/js/2.7d1bfff3.chunk.js",
+    "static/js/2.7d1bfff3.chunk.js.map": "/static/js/2.7d1bfff3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.75b23afa7bf5e0e37d0079086f25f61a.js": "/precache-manifest.75b23afa7bf5e0e37d0079086f25f61a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cbb72533.chunk.css.map": "/static/css/2.cbb72533.chunk.css.map",
+    "static/css/main.70ff33c9.chunk.css.map": "/static/css/main.70ff33c9.chunk.css.map",
+    "static/media/circle.png": "/static/media/circle.72804ed7.png",
+    "static/media/index.css": "/static/media/element-icons.d2f69a92.woff",
+    "static/media/weixin_url.png": "/static/media/weixin_url.b0edc6c5.png"
+  }
+}
