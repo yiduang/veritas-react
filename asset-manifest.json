@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5284f861.chunk.css",
+    "main.css": "/static/css/main.1860be10.chunk.css",
     "main.js": "/static/js/main.985421aa.chunk.js",
     "main.js.map": "/static/js/main.985421aa.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -9,10 +9,10 @@
     "static/js/2.68913582.chunk.js": "/static/js/2.68913582.chunk.js",
     "static/js/2.68913582.chunk.js.map": "/static/js/2.68913582.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.25f56a8826424a6ef9ac484825c527f4.js": "/precache-manifest.25f56a8826424a6ef9ac484825c527f4.js",
+    "precache-manifest.12897b9fd0e883b86ba22bf58339aa4b.js": "/precache-manifest.12897b9fd0e883b86ba22bf58339aa4b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.cbb72533.chunk.css.map": "/static/css/2.cbb72533.chunk.css.map",
-    "static/css/main.5284f861.chunk.css.map": "/static/css/main.5284f861.chunk.css.map",
+    "static/css/main.1860be10.chunk.css.map": "/static/css/main.1860be10.chunk.css.map",
     "static/media/circle.png": "/static/media/circle.72804ed7.png",
     "static/media/index.css": "/static/media/element-icons.d2f69a92.woff",
     "static/media/weixin_url.png": "/static/media/weixin_url.b0edc6c5.png"
