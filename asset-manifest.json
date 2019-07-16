@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c1d95a8.chunk.css",
+    "main.css": "/static/css/main.40a473e5.chunk.css",
     "main.js": "/static/js/main.26625e71.chunk.js",
     "main.js.map": "/static/js/main.26625e71.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -9,10 +9,10 @@
     "static/js/2.770bd0fa.chunk.js": "/static/js/2.770bd0fa.chunk.js",
     "static/js/2.770bd0fa.chunk.js.map": "/static/js/2.770bd0fa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bab75b4fdb0a459abb359cd6acac5aa2.js": "/precache-manifest.bab75b4fdb0a459abb359cd6acac5aa2.js",
+    "precache-manifest.1cf028cd41c196cebc24ab3dd34e9cc6.js": "/precache-manifest.1cf028cd41c196cebc24ab3dd34e9cc6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.cbb72533.chunk.css.map": "/static/css/2.cbb72533.chunk.css.map",
-    "static/css/main.1c1d95a8.chunk.css.map": "/static/css/main.1c1d95a8.chunk.css.map",
+    "static/css/main.40a473e5.chunk.css.map": "/static/css/main.40a473e5.chunk.css.map",
     "static/media/circle.png": "/static/media/circle.f2b31a48.png",
     "static/media/index.css": "/static/media/element-icons.d2f69a92.woff",
     "static/media/weixin_url.png": "/static/media/weixin_url.a646b462.png"
